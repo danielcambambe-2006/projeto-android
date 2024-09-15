@@ -142,6 +142,8 @@ footer{padding: 1px;
 
 
 p>a{
+    background-color: #1E3C76;
+    padding-block:1px ;
     color: #000000;
 }
 p>a:hover{ 
